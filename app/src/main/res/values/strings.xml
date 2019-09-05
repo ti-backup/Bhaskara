@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bhaskara</string>
+    <string name="Titulo">Bhaskara</string>
+    <string name="B">b</string>
+    <string name="C">c</string>
+    <string name="A">a</string>
+    <string name="BtnCalcular">Calcular</string>
+    <string name="X1">x1:</string>
+    <string name="X2">x2:</string>
+</resources>
