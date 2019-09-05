@@ -1,2 +1,2 @@
 # Bhaskara
-Sistema exemplo para testes
+Sistema exemplo para implementação de testes unitários
